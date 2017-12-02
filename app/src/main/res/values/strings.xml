@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Pocket Quiz</string>
+
+    <!--    TITLE      -->
+    <string name="title_transaction">Transaction</string>
+
+    <!--    MENU      -->
+    <string name="action_add">Add</string>
+
+    <!--    BUTTON      -->
+    <string name="btn_login"> LOGIN </string>
+    <string name="btn_register_user"> REGISTER USER </string>
+    <string name="btn_forgot_password"> FORGOT PASSWORD </string>
+    <string name="btn_change_password"> CHANGE PASSWORD </string>
+    <string name="btn_resend"> RESEND </string>
+    <string name="btn_submit"> SUBMIT </string>
+    <string name="btn_add"> ADD </string>
+    <string name="btn_edit"> EDIT </string>
+    <string name="btn_update"> UPDATE </string>
+    <string name="btn_verify"> VERIFY </string>
+    <string name="btn_cancel"> CANCEL </string>
+    <string name="btn_skip"> SKIP </string>
+    <string name="btn_next"> NEXT </string>
+    <string name="btn_finish"> FINISH </string>
+    <string name="btn_previous"> PREVIOUS </string>
+    <string name="btn_payment"> PAYMENT </string>
+
+    <!--    HINT      -->
+    <string name="hint_description"> Description </string>
+    <string name="hint_name"> Name </string>
+    <string name="hint_amount"> Amount </string>
+    <string name="hint_username"> Username </string>
+    <string name="hint_firstname"> Firstname </string>
+    <string name="hint_lastname"> Lastname </string>
+    <string name="hint_address"> Address </string>
+    <string name="hint_pincode"> Pincode </string>
+    <string name="hint_city"> City </string>
+    <string name="hint_location"> Location </string>
+    <string name="hint_email"> Email </string>
+    <string name="hint_title"> Title </string>
+    <string name="hint_password"> Password </string>
+    <string name="hint_confirm_password"> Confirm password </string>
+    <string name="hint_current_password"> Current Password </string>
+    <string name="hint_new_password"> New password </string>
+    <string name="hint_new_confirm_password"> New confirm password </string>
+    <string name="hint_mobile"> Mobile </string>
+    <string name="hint_country"> Country </string>
+    <string name="hint_search"> Search </string>
+
+    <!--    ERROR MESSAGE      -->
+    <string name="msg_connection_time_out">Connection time out, please try again</string>
+    <string name="no_internet_message">Internet connection is not available!</string>
+    <string name="msg_activity_not_found">No activity found to handle this action.</string>
+    <string name="msg_server_not_responding">Server is not responding, please try again</string>
+    <string name="msg_no_data">No Data</string>
+    <string name="msg_select_one_item">Select one item</string>
+    <string name="msg_order_not_select">Order not select</string>
+    <string name="msg_empty_email">Enter email</string>
+    <string name="msg_empty_password">Enter password</string>
+    <string name="msg_empty_confirm_password">Enter confirm password</string>
+    <string name="msg_empty_username">Enter username</string>
+    <string name="msg_empty_mobile">Enter mobile</string>
+    <string name="msg_read_file_no">File not read</string>
+    <string name="msg_otp_verify_success">OTP verify successful</string>
+    <string name="msg_api_call_successful">API Call Successful</string>
+
+    <!--    LABEL MESSAGE      -->
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login_no_account">Don\'t have an account?</string>
+    <string name="login_register">REGISTER</string>
+    <string name="sign_up">Sign up</string>
+    <string name="or">OR</string>
+    <string name="timer">00:00</string>
+    <string name="details">DETAILS</string>
+    <string name="view">VIEW</string>
+    <string name="mobile">Mobile</string>
+    <string name="city_with_location">City (Location)</string>
+    <string name="date_time">Date - Time</string>
+    <string name="edit"> EDIT </string>
+    <string name="lead_id">Lead Id</string>
+    <string name="user_id">User Id</string>
+    <string name="username">Username</string>
+    <string name="address">Address</string>
+    <string name="email"> Email </string>
+    <string name="pincode"> Pincode </string>
+    <string name="name"> Name </string>
+    <string name="total">Total : </string>
+    <string name="question_no">Question No :</string>
+    <string name="question">Question</string>
+    <string name="found">0 found</string>
+
+    <string name="dialog_exist"> Exit </string>
+    <string name="dialog_cancel"> Cancel </string>
+    <string name="dialog_ok"> OK </string>
+    <string name="dialog_delete"> Delete </string>
+    <string name="dialog_message_app_exist"> Are you want to exit? </string>
+    <string name="dialog_message_delete"> Are you want to delete? </string>
+    <string name="dialog_confirm"> Confirm </string>
+
+    <string name="adp_name"> Name </string>
+    <string name="adp_date_time">Date - Time</string>
+    <string name="adp_description"> Description </string>
+    <string name="adp_title"> Title </string>
+
+    <!--    FONT      -->
+    <string name="regular_font">fonts/aileron_regular.otf</string>
+    <string name="light_font">fonts/aileron_light.otf</string>
+    <string name="semibold_font">fonts/aileron_semibold.otf</string>
+
+    <string name="title_activity_navigation">Home</string>
+    <string name="tab_credit">CREDIT</string>
+    <string name="tab_debit">DEBIT</string>
+    <string name="is_c">C</string>
+
+    <item name="srn_root_layout" type="id" />
+    <string name="srn_drawer_open">Open</string>
+    <string name="srn_drawer_close">Close</string>
+    <string name="srn_ex_no_menu_view">No view for menu provided. You must either call .withMenuView(View) or pass a valid resource id to .withMenuLayout(int)</string>
+    <string name="srn_ex_bad_content_view">Your content view must contain exactly one child. Make sure you call inject() after setContentView().</string>
+
+    <string name="balance_currency">$</string>
+    <string name="balance_amount">524.99</string>
+
+    <string name="facebook_app_id">1826937040930310</string>
+    <string name="fb_login_protocol_scheme">fb1826937040930310</string>
+    <string name="google_client_id">62251659881-ofn8s79re3b9d4q34i71nqmvp5cifeqj.apps.googleusercontent.com</string>
+</resources>
